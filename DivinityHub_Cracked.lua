@@ -2,7 +2,7 @@
 --copyright ©2021 SKOOP INDUSTRY inc. all rights reserved
 --copyright ©2021 SKOOP INDUSTRY inc. all rights reserved
 --copyright ©2021 SKOOP INDUSTRY inc. all rights reserved
-
+ 
 getgenv().scriptKey = "MADE_BY_SKOOP_AND_DERAIL";
 getgenv().websiteKey = "XD";
 
