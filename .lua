@@ -222,6 +222,11 @@ scripts:Button("HellReaver Roblox Quake", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Just-Egg-Salad/roblox-scripts/main/hellreaver%20hitbox",true))()
 end)
 
+--Admin Script
+scripts:Button("Fates Admin FE", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"))();
+end)
+
 local hubs = library:CreateSection("Hubs");
 
 -- HUBS
