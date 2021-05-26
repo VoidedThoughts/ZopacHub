@@ -1,4 +1,4 @@
 # lua-stuff
 roblox scripts
 
-among us drip i put scripts here
+admin version of zopac script super pog
